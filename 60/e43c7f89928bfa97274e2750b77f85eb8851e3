@@ -1,0 +1,22 @@
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/BaseStore.java
+  s_c33e5973a07c38::t_93d3bf5fc72a02 189-193,198-205
+spring-ai-alibaba-graph-core/src/test/java/com/alibaba/cloud/ai/graph/store/stores/StoreCreatedAtPreservationTest.java
+  s_c33e5973a07c38::t_902de1ff2dd5af 118-142
+  s_c33e5973a07c38::t_2ad7d6d2928c51 21-22,33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.50-trip",
+  "base_commit_sha": "60e43c7f89928bfa97274e2750b77f85eb8851e3",
+  "prompts": {},
+  "sessions": {
+    "s_c33e5973a07c38": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_cccdd5f2-4234-4f1c-b2a2-6a619ef3931a",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
