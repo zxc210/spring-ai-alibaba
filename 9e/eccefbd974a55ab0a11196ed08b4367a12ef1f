@@ -1,0 +1,29 @@
+spring-ai-alibaba-graph-core/src/test/java/com/alibaba/cloud/ai/graph/store/stores/StoreCreatedAtPreservationTest.java
+  s_c33e5973a07c38::t_3d60ec5124b260 1-98
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/BaseStore.java
+  s_c33e5973a07c38::t_0292e62c7f84ed 174-194
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/MemoryStore.java
+  s_c33e5973a07c38::t_3ab37bc6a82d10 65-68
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/MongoStore.java
+  s_c33e5973a07c38::t_eacc1c6f2413f5 79-82
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/RedisStore.java
+  s_c33e5973a07c38::t_46c4936f3bae4e 80-82
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/FileSystemStore.java
+  s_c33e5973a07c38::t_7409c2c18cc190 82-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.50-trip",
+  "base_commit_sha": "9eeccefbd974a55ab0a11196ed08b4367a12ef1f",
+  "prompts": {},
+  "sessions": {
+    "s_c33e5973a07c38": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_cccdd5f2-4234-4f1c-b2a2-6a619ef3931a",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
