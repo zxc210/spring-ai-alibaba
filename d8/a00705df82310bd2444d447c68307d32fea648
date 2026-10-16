@@ -1,0 +1,35 @@
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/DatabaseStore.java
+  s_c33e5973a07c38::t_efad8a9d6fa77a 436-437,439-441
+  s_c33e5973a07c38::t_39d3b6e86e0c4a 431-435,438,442-446
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/RedisStore.java
+  s_c33e5973a07c38::t_239585e7caf80b 82-85
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/MemoryStore.java
+  s_c33e5973a07c38::t_4616ed7b392288 67-70
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/FileSystemStore.java
+  s_c33e5973a07c38::t_3244284cb733d1 89-92
+  s_c33e5973a07c38::t_f3772ccdfbd1b5 84-86,88
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/BaseStore.java
+  s_c33e5973a07c38::t_a38f9682e817da 177-181,183-188
+spring-ai-alibaba-graph-core/src/test/java/com/alibaba/cloud/ai/graph/store/stores/DatabaseStoreAllDialectTest.java
+  s_c33e5973a07c38::t_cdfa1cb3627ada 91-92,101-102
+spring-ai-alibaba-graph-core/src/test/java/com/alibaba/cloud/ai/graph/store/stores/StoreCreatedAtPreservationTest.java
+  s_c33e5973a07c38::t_88a70eca79e3d3 25-27,29-30,42-43,65-71,73-83,112
+spring-ai-alibaba-graph-core/src/main/java/com/alibaba/cloud/ai/graph/store/stores/MongoStore.java
+  s_c33e5973a07c38::t_73bac2188bc602 81-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.50-trip",
+  "base_commit_sha": "d8a00705df82310bd2444d447c68307d32fea648",
+  "prompts": {},
+  "sessions": {
+    "s_c33e5973a07c38": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_cccdd5f2-4234-4f1c-b2a2-6a619ef3931a",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
